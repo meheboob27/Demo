@@ -4,4 +4,4 @@ year=int(input("Enter your age:"))
 print(year)
 Currentage=2019-year
 print(Currentage)
-clear
+print ("Hello"+name+".your are %d years old."% (Currentage))
